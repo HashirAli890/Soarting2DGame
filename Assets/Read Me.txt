@@ -1,0 +1,14 @@
+Open Unity 2019.4.40
+Switch Plateform to Andriod 
+Set Screem Aspect ratio 1920 * 1080
+switch to scene Gameplay
+All basic scripts is in script Folders 
+In gameplay scripts controller and handler scripts add to script Object 
+Level Handler script is handling levels 
+Demo is working on 8 Images 
+All the Core Functionality is written in Game Handler script
+if you want to add new images for demo or more apps for demo add in level Handler and assign values 
+Then Duplicate Images and pass those to Apps list
+You can drag objects to move up down left right
+and drag and drop app to other app to create Folder 
+
